@@ -8,7 +8,7 @@
         }
 
         .header-image {
-            width: 100%;
+            width: 50%;
             height: 100%;
             object-fit: cover; /* Ensures the image covers the full container */
         }
